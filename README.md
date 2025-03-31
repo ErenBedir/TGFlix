@@ -20,17 +20,9 @@ TGFlix, Telegram kanalınızdaki video içeriklerini alarak bir web sayfası üz
 - MySQL/MariaDB Veritabanı
 - Telegram Bot API
 - VPS veya Web Sunucu
-- Web Tarayıcısı
 
 ---
 
-## Kurulum
+#### Dip Not
 
-### 1. Telegram Botu Oluşturun
-Telegram'da **BotFather** kullanarak yeni bir bot oluşturun ve token alın. Bu token, botunuzu Telegram kanalınıza entegre etmek için gereklidir.
-
-### 2. VPS veya Web Sunucusuna Bağlanın
-VPS'nize SSH ile bağlanın ve aşağıdaki yazılımları yükleyin:
-```bash
-sudo apt update
-sudo apt install python3 python3-pip mysql-server
+Yalnızca prototip aşamasındadır!
